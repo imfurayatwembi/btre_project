@@ -1,0 +1,15 @@
+#header {
+    background: #282629;
+    color: rgb(161, 151, 11);
+    background-color: #233f64;
+}
+a:link,
+a:visited {
+    color: rgb(20, 39, 0);
+}
+div.breadcrumbs {
+    background: rgb(63, 37, 42);
+}
+.module h2, .module caption, .inline-group h2 {
+    background: rgb(20, 39, 0);;
+}
